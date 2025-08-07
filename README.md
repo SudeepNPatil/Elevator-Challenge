@@ -8,7 +8,9 @@ Built using only **HTML, CSS, and JavaScript** – no libraries or frameworks!
 
 ##  How It Works
 
-- Simulates multiple elevators (3–4 lifts)
+- At the beginning, users can **enter the number of elevators (lifts)** and **number of floors** they want to simulate
+- Based on the input, the system generates the elevator setup
+  
 - When a floor is requested:
   - The system checks which elevators are *busy* or *free*
   - Then finds the *nearest available elevator*
