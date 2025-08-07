@@ -37,8 +37,8 @@ Built using only **HTML, CSS, and JavaScript** – no libraries or frameworks!
 
 ##  Demo Video
 
-[▶️ Watch Project Demo](![Elevator challenge](https://github.com/user-attachments/assets/82a6a1f2-f2d7-465b-b453-0ad42ef6e392)
-)
+▶️ Watch Project Demo](![Elevator challenge](https://github.com/user-attachments/assets/82a6a1f2-f2d7-465b-b453-0ad42ef6e392)
+
 
 ---
 
